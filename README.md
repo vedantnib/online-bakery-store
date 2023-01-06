@@ -1,5 +1,3 @@
-# CS 6359 Project - Group 3
-
 ### Running the project
 
   - Start your local MySQL cluster.
@@ -31,17 +29,3 @@
     next to "Server runtime environment" and then click "Browse" and select the folder of your downloaded Tomcat. 
   - Click "Finish" and then "Next" and then "Finish". If everything was set up properly, the server will start in the console and redirect you to the Login page.
   - You have successfully run the project
-
-### Relevant Documentation Github
-
-[__Issue Tracking page__](https://github.com/UTDClassroomOrg/courseproject-cs6359-f22-group3/issues)
-
-
-[__Wiki Page__](https://github.com/UTDClassroomOrg/courseproject-cs6359-f22-group3/wiki)
-
-
-[__Project Organisation__](https://github.com/orgs/UTDClassroomOrg/projects/17/views/1)
-
-
-
-[__GitHub Link__](https://github.com/UTDClassroomOrg/courseproject-cs6359-f22-group3)
